@@ -1,15 +1,14 @@
-Requirements:
+# ETHZ Deep Learning Course Research Project
 
-numpy==1.17.4
-tensorboard==1.14.0
-torch==1.3.1
-torchvision==0.4.2
+This repository contains all the code submitted with the report for the Deep Learning HS19 course. This work was a collaboration of multiple team members.
 
+**Requirements:**
+Install Python packages in your virtualenv with `pip install -r requirements.txt`
+
+**Training Sparse Resnets:**
 How to train ResNet-50 on CIFAR 100 with sparse methods:
 
-call:
-`train.py --help`
-for more information
+Call `train.py --help` for more information on the argparser.
 
 If training on the Leonhard cluster set: `--leonhard=True`
 
