@@ -1,0 +1,502 @@
+epoch: 1, training loss:     1.5700842533879877
+epoch: 1, training accuracy: 42.06649398803711 %
+epoch: 1, validation loss:     1.3506770342588426
+epoch: 1, validation accuracy: 52.10000228881836 %
+
+epoch: 2, training loss:     0.959046584261043
+epoch: 2, training accuracy: 65.3069076538086 %
+epoch: 2, validation loss:     1.3421085834503175
+epoch: 2, validation accuracy: 57.04999923706055 %
+
+epoch: 3, training loss:     0.726570928950444
+epoch: 3, training accuracy: 74.5780029296875 %
+epoch: 3, validation loss:     0.808005441725254
+epoch: 3, validation accuracy: 71.80000305175781 %
+
+epoch: 4, training loss:     0.6209176524215952
+epoch: 4, training accuracy: 78.33248138427734 %
+epoch: 4, validation loss:     0.6731992587447166
+epoch: 4, validation accuracy: 76.7249984741211 %
+
+epoch: 5, training loss:     0.5565662879468231
+epoch: 5, training accuracy: 80.45524597167969 %
+epoch: 5, validation loss:     0.7199804075062275
+epoch: 5, validation accuracy: 76.17500305175781 %
+
+epoch: 6, training loss:     0.5186805442318587
+epoch: 6, training accuracy: 81.73146057128906 %
+epoch: 6, validation loss:     0.7114798650145531
+epoch: 6, validation accuracy: 76.32500457763672 %
+
+epoch: 7, training loss:     0.48946264172758897
+epoch: 7, training accuracy: 82.84654998779297 %
+epoch: 7, validation loss:     0.7278933867812156
+epoch: 7, validation accuracy: 75.67500305175781 %
+
+epoch: 8, training loss:     0.45892476189471876
+epoch: 8, training accuracy: 83.7877197265625 %
+epoch: 8, validation loss:     0.6656521797180176
+epoch: 8, validation accuracy: 78.0999984741211 %
+
+epoch: 9, training loss:     0.4446954556819423
+epoch: 9, training accuracy: 84.40153503417969 %
+epoch: 9, validation loss:     0.611204345524311
+epoch: 9, validation accuracy: 79.07500457763672 %
+
+epoch: 10, training loss:     0.4290700870401719
+epoch: 10, training accuracy: 84.82608795166016 %
+epoch: 10, validation loss:     0.5207762658596039
+epoch: 10, validation accuracy: 82.4000015258789 %
+
+epoch: 11, training loss:     0.4164224985386709
+epoch: 11, training accuracy: 85.37596130371094 %
+epoch: 11, validation loss:     0.6790344893932343
+epoch: 11, validation accuracy: 77.5 %
+
+epoch: 12, training loss:     0.40664781165092495
+epoch: 12, training accuracy: 85.5703353881836 %
+epoch: 12, validation loss:     0.8245410442352294
+epoch: 12, validation accuracy: 73.7249984741211 %
+
+epoch: 13, training loss:     0.3979411487612883
+epoch: 13, training accuracy: 85.88235473632812 %
+epoch: 13, validation loss:     0.5425635024905204
+epoch: 13, validation accuracy: 81.4000015258789 %
+
+epoch: 14, training loss:     0.3914749203892925
+epoch: 14, training accuracy: 85.97442626953125 %
+epoch: 14, validation loss:     0.5361016020178795
+epoch: 14, validation accuracy: 81.375 %
+
+epoch: 15, training loss:     0.38312800194296387
+epoch: 15, training accuracy: 86.4322280883789 %
+epoch: 15, validation loss:     0.5079166170209646
+epoch: 15, validation accuracy: 82.55000305175781 %
+
+epoch: 16, training loss:     0.36727089806438407
+epoch: 16, training accuracy: 87.0102310180664 %
+epoch: 16, validation loss:     0.6369952954351902
+epoch: 16, validation accuracy: 79.17500305175781 %
+
+epoch: 17, training loss:     0.3630535536257507
+epoch: 17, training accuracy: 87.17391204833984 %
+epoch: 17, validation loss:     0.514655651152134
+epoch: 17, validation accuracy: 82.2750015258789 %
+
+epoch: 18, training loss:     0.35889209208586026
+epoch: 18, training accuracy: 87.28644561767578 %
+epoch: 18, validation loss:     0.561412651091814
+epoch: 18, validation accuracy: 81.25 %
+
+epoch: 19, training loss:     0.35433873229319485
+epoch: 19, training accuracy: 87.36573028564453 %
+epoch: 19, validation loss:     0.561884443461895
+epoch: 19, validation accuracy: 81.7249984741211 %
+
+epoch: 20, training loss:     0.34543193846255005
+epoch: 20, training accuracy: 87.8311996459961 %
+epoch: 20, validation loss:     0.6279288765043021
+epoch: 20, validation accuracy: 79.125 %
+
+epoch: 21, training loss:     0.3386018711435216
+epoch: 21, training accuracy: 88.12276458740234 %
+epoch: 21, validation loss:     0.5610219776630402
+epoch: 21, validation accuracy: 81.375 %
+
+epoch: 22, training loss:     0.3389468337111461
+epoch: 22, training accuracy: 87.87212371826172 %
+epoch: 22, validation loss:     0.45453173741698266
+epoch: 22, validation accuracy: 84.82500457763672 %
+
+epoch: 23, training loss:     0.32938038391987684
+epoch: 23, training accuracy: 88.21227264404297 %
+epoch: 23, validation loss:     0.41348719112575055
+epoch: 23, validation accuracy: 85.75 %
+
+epoch: 24, training loss:     0.3262739041653436
+epoch: 24, training accuracy: 88.29923248291016 %
+epoch: 24, validation loss:     0.4762550570070744
+epoch: 24, validation accuracy: 84.20000457763672 %
+
+epoch: 25, training loss:     0.3232548993719203
+epoch: 25, training accuracy: 88.54731750488281 %
+epoch: 25, validation loss:     0.5519617050886154
+epoch: 25, validation accuracy: 82.125 %
+
+epoch: 26, training loss:     0.32338336491218916
+epoch: 26, training accuracy: 88.47826385498047 %
+epoch: 26, validation loss:     0.5162900485098362
+epoch: 26, validation accuracy: 83.125 %
+
+epoch: 27, training loss:     0.3163700025252369
+epoch: 27, training accuracy: 88.75447845458984 %
+epoch: 27, validation loss:     0.3794651448726654
+epoch: 27, validation accuracy: 86.82500457763672 %
+
+epoch: 28, training loss:     0.31760538550441525
+epoch: 28, training accuracy: 88.60614013671875 %
+epoch: 28, validation loss:     0.42031707540154456
+epoch: 28, validation accuracy: 85.2750015258789 %
+
+epoch: 29, training loss:     0.3085048902598793
+epoch: 29, training accuracy: 88.92582702636719 %
+epoch: 29, validation loss:     0.4879531852900982
+epoch: 29, validation accuracy: 83.20000457763672 %
+
+epoch: 30, training loss:     0.31053853831480227
+epoch: 30, training accuracy: 88.90792846679688 %
+epoch: 30, validation loss:     0.5864747785031795
+epoch: 30, validation accuracy: 80.82500457763672 %
+
+epoch: 31, training loss:     0.30711871717134703
+epoch: 31, training accuracy: 89.0102310180664 %
+epoch: 31, validation loss:     0.5096328407526016
+epoch: 31, validation accuracy: 83.0 %
+
+epoch: 32, training loss:     0.3079102670064058
+epoch: 32, training accuracy: 88.97442626953125 %
+epoch: 32, validation loss:     0.79598668217659
+epoch: 32, validation accuracy: 75.5 %
+
+epoch: 33, training loss:     0.30194821164888497
+epoch: 33, training accuracy: 89.20204162597656 %
+epoch: 33, validation loss:     0.4529434971511364
+epoch: 33, validation accuracy: 84.5250015258789 %
+
+epoch: 34, training loss:     0.297020605839122
+epoch: 34, training accuracy: 89.56266021728516 %
+epoch: 34, validation loss:     0.40382002517580984
+epoch: 34, validation accuracy: 86.32500457763672 %
+
+epoch: 35, training loss:     0.2999734732196154
+epoch: 35, training accuracy: 89.25830841064453 %
+epoch: 35, validation loss:     0.5151851333677768
+epoch: 35, validation accuracy: 82.70000457763672 %
+
+epoch: 36, training loss:     0.3014003766314758
+epoch: 36, training accuracy: 89.23273468017578 %
+epoch: 36, validation loss:     0.804625042527914
+epoch: 36, validation accuracy: 76.55000305175781 %
+
+epoch: 37, training loss:     0.2939478863611856
+epoch: 37, training accuracy: 89.61637115478516 %
+epoch: 37, validation loss:     0.38337315544486045
+epoch: 37, validation accuracy: 86.5999984741211 %
+
+epoch: 38, training loss:     0.2929126081030692
+epoch: 38, training accuracy: 89.50639343261719 %
+epoch: 38, validation loss:     0.41315236762166024
+epoch: 38, validation accuracy: 85.875 %
+
+epoch: 39, training loss:     0.29214841314136525
+epoch: 39, training accuracy: 89.51918029785156 %
+epoch: 39, validation loss:     0.6551205053925514
+epoch: 39, validation accuracy: 79.20000457763672 %
+
+epoch: 40, training loss:     0.2942985274907573
+epoch: 40, training accuracy: 89.57544708251953 %
+epoch: 40, validation loss:     0.551976066827774
+epoch: 40, validation accuracy: 81.82500457763672 %
+
+epoch: 41, training loss:     0.29467147973644764
+epoch: 41, training accuracy: 89.27621459960938 %
+epoch: 41, validation loss:     0.4282804366201162
+epoch: 41, validation accuracy: 85.3499984741211 %
+
+epoch: 42, training loss:     0.289623827999815
+epoch: 42, training accuracy: 89.51918029785156 %
+epoch: 42, validation loss:     0.5325544871389866
+epoch: 42, validation accuracy: 82.7249984741211 %
+
+epoch: 43, training loss:     0.29054980355379223
+epoch: 43, training accuracy: 89.55498504638672 %
+epoch: 43, validation loss:     0.497625657171011
+epoch: 43, validation accuracy: 83.6500015258789 %
+
+epoch: 44, training loss:     0.2876885911387861
+epoch: 44, training accuracy: 89.72889709472656 %
+epoch: 44, validation loss:     0.4393585093319416
+epoch: 44, validation accuracy: 85.0250015258789 %
+
+epoch: 45, training loss:     0.28901162225267163
+epoch: 45, training accuracy: 89.6726303100586 %
+epoch: 45, validation loss:     0.4457794576883316
+epoch: 45, validation accuracy: 84.7249984741211 %
+
+epoch: 46, training loss:     0.2856879227835199
+epoch: 46, training accuracy: 89.77237701416016 %
+epoch: 46, validation loss:     0.5307027123868465
+epoch: 46, validation accuracy: 83.3499984741211 %
+
+epoch: 47, training loss:     0.2867413477214706
+epoch: 47, training accuracy: 89.70076751708984 %
+epoch: 47, validation loss:     0.6481075711548329
+epoch: 47, validation accuracy: 79.0250015258789 %
+
+epoch: 48, training loss:     0.2841453271372544
+epoch: 48, training accuracy: 89.8311996459961 %
+epoch: 48, validation loss:     0.4471213959157467
+epoch: 48, validation accuracy: 85.25 %
+
+epoch: 49, training loss:     0.28442787779185474
+epoch: 49, training accuracy: 89.78516387939453 %
+epoch: 49, validation loss:     0.44930374920368193
+epoch: 49, validation accuracy: 84.9000015258789 %
+
+epoch: 50, training loss:     0.2831086158523779
+epoch: 50, training accuracy: 89.83375549316406 %
+epoch: 50, validation loss:     0.41149855926632883
+epoch: 50, validation accuracy: 85.9749984741211 %
+
+epoch: 51, training loss:     0.14980704640336048
+epoch: 51, training accuracy: 94.45524597167969 %
+epoch: 51, validation loss:     0.20588620491325854
+epoch: 51, validation accuracy: 92.875 %
+
+epoch: 52, training loss:     0.1035556268671056
+epoch: 52, training accuracy: 95.97698211669922 %
+epoch: 52, validation loss:     0.1980051428079605
+epoch: 52, validation accuracy: 93.3499984741211 %
+
+epoch: 53, training loss:     0.08481907132355605
+epoch: 53, training accuracy: 96.71611022949219 %
+epoch: 53, validation loss:     0.1965437475591898
+epoch: 53, validation accuracy: 93.2249984741211 %
+
+epoch: 54, training loss:     0.07346160527880845
+epoch: 54, training accuracy: 97.17902374267578 %
+epoch: 54, validation loss:     0.19815960582345724
+epoch: 54, validation accuracy: 93.5 %
+
+epoch: 55, training loss:     0.06595603381867146
+epoch: 55, training accuracy: 97.32225036621094 %
+epoch: 55, validation loss:     0.20411415584385395
+epoch: 55, validation accuracy: 93.32500457763672 %
+
+epoch: 56, training loss:     0.05670559916959699
+epoch: 56, training accuracy: 97.67007446289062 %
+epoch: 56, validation loss:     0.2002896223217249
+epoch: 56, validation accuracy: 93.45000457763672 %
+
+epoch: 57, training loss:     0.05127032001590942
+epoch: 57, training accuracy: 97.90792846679688 %
+epoch: 57, validation loss:     0.20393598712980748
+epoch: 57, validation accuracy: 93.5 %
+
+epoch: 58, training loss:     0.04720975793040622
+epoch: 58, training accuracy: 98.1048583984375 %
+epoch: 58, validation loss:     0.2193249337375164
+epoch: 58, validation accuracy: 93.125 %
+
+epoch: 59, training loss:     0.043766682500691365
+epoch: 59, training accuracy: 98.22762298583984 %
+epoch: 59, validation loss:     0.22236521244049073
+epoch: 59, validation accuracy: 93.42500305175781 %
+
+epoch: 60, training loss:     0.040389055519572
+epoch: 60, training accuracy: 98.3580551147461 %
+epoch: 60, validation loss:     0.23183395583182573
+epoch: 60, validation accuracy: 93.0999984741211 %
+
+epoch: 61, training loss:     0.03950120623954727
+epoch: 61, training accuracy: 98.34271240234375 %
+epoch: 61, validation loss:     0.20788103044033052
+epoch: 61, validation accuracy: 93.82500457763672 %
+
+epoch: 62, training loss:     0.038803647770105726
+epoch: 62, training accuracy: 98.40664672851562 %
+epoch: 62, validation loss:     0.21360901221632958
+epoch: 62, validation accuracy: 93.5 %
+
+epoch: 63, training loss:     0.03538398876729067
+epoch: 63, training accuracy: 98.5370864868164 %
+epoch: 63, validation loss:     0.23926226869225503
+epoch: 63, validation accuracy: 92.9749984741211 %
+
+epoch: 64, training loss:     0.03698103283258045
+epoch: 64, training accuracy: 98.47314453125 %
+epoch: 64, validation loss:     0.2317345779389143
+epoch: 64, validation accuracy: 93.0 %
+
+epoch: 65, training loss:     0.03371017496280201
+epoch: 65, training accuracy: 98.65984344482422 %
+epoch: 65, validation loss:     0.2374862242490053
+epoch: 65, validation accuracy: 93.0250015258789 %
+
+epoch: 66, training loss:     0.032326947871471765
+epoch: 66, training accuracy: 98.69821166992188 %
+epoch: 66, validation loss:     0.22830239310860634
+epoch: 66, validation accuracy: 93.1500015258789 %
+
+epoch: 67, training loss:     0.03520888286878538
+epoch: 67, training accuracy: 98.49871826171875 %
+epoch: 67, validation loss:     0.27160094678401947
+epoch: 67, validation accuracy: 92.25 %
+
+epoch: 68, training loss:     0.03255743266600172
+epoch: 68, training accuracy: 98.67774963378906 %
+epoch: 68, validation loss:     0.2318500444293022
+epoch: 68, validation accuracy: 93.375 %
+
+epoch: 69, training loss:     0.03328350667491593
+epoch: 69, training accuracy: 98.62403869628906 %
+epoch: 69, validation loss:     0.23404377233237028
+epoch: 69, validation accuracy: 93.375 %
+
+epoch: 70, training loss:     0.032256793869120996
+epoch: 70, training accuracy: 98.72122955322266 %
+epoch: 70, validation loss:     0.2752993036061525
+epoch: 70, validation accuracy: 92.4749984741211 %
+
+epoch: 71, training loss:     0.03451398841779479
+epoch: 71, training accuracy: 98.59846496582031 %
+epoch: 71, validation loss:     0.24735839776694774
+epoch: 71, validation accuracy: 92.92500305175781 %
+
+epoch: 72, training loss:     0.032634524533244044
+epoch: 72, training accuracy: 98.71866607666016 %
+epoch: 72, validation loss:     0.26848659571260214
+epoch: 72, validation accuracy: 92.70000457763672 %
+
+epoch: 73, training loss:     0.03548268189706156
+epoch: 73, training accuracy: 98.54731750488281 %
+epoch: 73, validation loss:     0.2468220591545105
+epoch: 73, validation accuracy: 93.05000305175781 %
+
+epoch: 74, training loss:     0.0357340166007009
+epoch: 74, training accuracy: 98.61380767822266 %
+epoch: 74, validation loss:     0.24121526889503003
+epoch: 74, validation accuracy: 93.05000305175781 %
+
+epoch: 75, training loss:     0.03422521098095285
+epoch: 75, training accuracy: 98.5882339477539 %
+epoch: 75, validation loss:     0.2818979490548372
+epoch: 75, validation accuracy: 92.375 %
+
+epoch: 76, training loss:     0.021349985152482986
+epoch: 76, training accuracy: 99.1994857788086 %
+epoch: 76, validation loss:     0.2177116397768259
+epoch: 76, validation accuracy: 93.9000015258789 %
+
+epoch: 77, training loss:     0.01341828973273106
+epoch: 77, training accuracy: 99.61637115478516 %
+epoch: 77, validation loss:     0.212405851110816
+epoch: 77, validation accuracy: 94.25 %
+
+epoch: 78, training loss:     0.010109540545488791
+epoch: 78, training accuracy: 99.73401641845703 %
+epoch: 78, validation loss:     0.21021810322999954
+epoch: 78, validation accuracy: 94.07500457763672 %
+
+epoch: 79, training loss:     0.009440112601765586
+epoch: 79, training accuracy: 99.75191497802734 %
+epoch: 79, validation loss:     0.21367798522114753
+epoch: 79, validation accuracy: 94.125 %
+
+epoch: 80, training loss:     0.008333622880489625
+epoch: 80, training accuracy: 99.79539489746094 %
+epoch: 80, validation loss:     0.21494871135801077
+epoch: 80, validation accuracy: 94.05000305175781 %
+
+epoch: 81, training loss:     0.0073862442951601786
+epoch: 81, training accuracy: 99.82096862792969 %
+epoch: 81, validation loss:     0.21484792586416007
+epoch: 81, validation accuracy: 94.0999984741211 %
+
+epoch: 82, training loss:     0.006845230334307379
+epoch: 82, training accuracy: 99.84910583496094 %
+epoch: 82, validation loss:     0.21302047073841096
+epoch: 82, validation accuracy: 94.2750015258789 %
+
+epoch: 83, training loss:     0.006724917130959233
+epoch: 83, training accuracy: 99.8516616821289 %
+epoch: 83, validation loss:     0.2151108555495739
+epoch: 83, validation accuracy: 94.32500457763672 %
+
+epoch: 84, training loss:     0.006736766825646848
+epoch: 84, training accuracy: 99.84398651123047 %
+epoch: 84, validation loss:     0.21618265472352505
+epoch: 84, validation accuracy: 94.0999984741211 %
+
+epoch: 85, training loss:     0.005661336194468981
+epoch: 85, training accuracy: 99.9028091430664 %
+epoch: 85, validation loss:     0.21935326978564262
+epoch: 85, validation accuracy: 94.30000305175781 %
+
+epoch: 86, training loss:     0.00568090756054577
+epoch: 86, training accuracy: 99.87467956542969 %
+epoch: 86, validation loss:     0.22085599843412637
+epoch: 86, validation accuracy: 94.20000457763672 %
+
+epoch: 87, training loss:     0.0054582141249266735
+epoch: 87, training accuracy: 99.89769744873047 %
+epoch: 87, validation loss:     0.22029248643666505
+epoch: 87, validation accuracy: 94.2750015258789 %
+
+epoch: 88, training loss:     0.005083451799028899
+epoch: 88, training accuracy: 99.90792846679688 %
+epoch: 88, validation loss:     0.21937110871076584
+epoch: 88, validation accuracy: 94.2249984741211 %
+
+epoch: 89, training loss:     0.004776581044039686
+epoch: 89, training accuracy: 99.92327117919922 %
+epoch: 89, validation loss:     0.22130687795579435
+epoch: 89, validation accuracy: 94.2249984741211 %
+
+epoch: 90, training loss:     0.004711968657534446
+epoch: 90, training accuracy: 99.91560363769531 %
+epoch: 90, validation loss:     0.21843278575688602
+epoch: 90, validation accuracy: 94.30000305175781 %
+
+epoch: 91, training loss:     0.005168897883437783
+epoch: 91, training accuracy: 99.9028091430664 %
+epoch: 91, validation loss:     0.21839536242187024
+epoch: 91, validation accuracy: 94.3499984741211 %
+
+epoch: 92, training loss:     0.004788314430590938
+epoch: 92, training accuracy: 99.91048431396484 %
+epoch: 92, validation loss:     0.22188191637396812
+epoch: 92, validation accuracy: 94.3499984741211 %
+
+epoch: 93, training loss:     0.0046613304405365985
+epoch: 93, training accuracy: 99.91304016113281 %
+epoch: 93, validation loss:     0.2222660044208169
+epoch: 93, validation accuracy: 94.2750015258789 %
+
+epoch: 94, training loss:     0.004236470610189163
+epoch: 94, training accuracy: 99.93350219726562 %
+epoch: 94, validation loss:     0.22139588110148906
+epoch: 94, validation accuracy: 94.32500457763672 %
+
+epoch: 95, training loss:     0.004169822340626317
+epoch: 95, training accuracy: 99.93350219726562 %
+epoch: 95, validation loss:     0.22158338781446218
+epoch: 95, validation accuracy: 94.4000015258789 %
+
+epoch: 96, training loss:     0.004051074726254586
+epoch: 96, training accuracy: 99.93350219726562 %
+epoch: 96, validation loss:     0.219893928617239
+epoch: 96, validation accuracy: 94.375 %
+
+epoch: 97, training loss:     0.003821936658705058
+epoch: 97, training accuracy: 99.94373321533203 %
+epoch: 97, validation loss:     0.21918702255934477
+epoch: 97, validation accuracy: 94.5250015258789 %
+
+epoch: 98, training loss:     0.0042500002303725234
+epoch: 98, training accuracy: 99.92582702636719 %
+epoch: 98, validation loss:     0.22080635875463486
+epoch: 98, validation accuracy: 94.30000305175781 %
+
+epoch: 99, training loss:     0.003970349562423461
+epoch: 99, training accuracy: 99.9360580444336 %
+epoch: 99, validation loss:     0.22105172127485276
+epoch: 99, validation accuracy: 94.5 %
+
+epoch: 100, training loss:     0.0038807332453787173
+epoch: 100, training accuracy: 99.95140838623047 %
+epoch: 100, validation loss:     0.22364316508173943
+epoch: 100, validation accuracy: 94.32500457763672 %
+
+Non-Zero Weights: 10649592
+Zero Weights: 10632530
